@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b54dd50a-1c4b-4f23-9b50-58c6062b87fa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/EjercicioTema4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b54dd50a-1c4b-4f23-9b50-58c6062b87fa" name="Changes" comment="Segundo commit:&#10;Se agregan ejercicios correspondientes al tema 4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +44,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EjercicioTema4">
+  <component name="RunManager" selected="Application.EjercicioTema8">
     <configuration name="EjercicioTema3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EjercicioTema3" />
       <module name="OpenBootcamp" />
@@ -62,8 +59,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EjercicioTema8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjercicioTema8" />
+      <module name="OpenBootcamp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EjercicioTema8" />
         <item itemvalue="Application.EjercicioTema4" />
         <item itemvalue="Application.EjercicioTema3" />
       </list>
@@ -79,7 +84,7 @@
       <updated>1654147855992</updated>
       <workItem from="1654147857437" duration="1396000" />
       <workItem from="1655699930732" duration="113000" />
-      <workItem from="1658729866956" duration="938000" />
+      <workItem from="1658729866956" duration="1144000" />
     </task>
     <task id="LOCAL-00001" summary="Primer commit:&#10;Ejercicios correspondientes al tema 3">
       <created>1654148907938</created>
@@ -88,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654148907938</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Segundo commit:&#10;Se agregan ejercicios correspondientes al tema 4">
+      <created>1658730935429</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658730935429</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +119,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primer commit:&#10;Ejercicios correspondientes al tema 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primer commit:&#10;Ejercicios correspondientes al tema 3" />
+    <MESSAGE value="Segundo commit:&#10;Se agregan ejercicios correspondientes al tema 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Segundo commit:&#10;Se agregan ejercicios correspondientes al tema 4" />
   </component>
 </project>
