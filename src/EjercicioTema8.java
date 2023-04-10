@@ -1,16 +1,16 @@
 public class EjercicioTema8 {
     public static void main(String[] args) {
-        Persona persona = new Persona();
-        persona.setEdad(43);
-        persona.setNombre("Luis Turcios");
-        persona.setTelefono("50369866023");
-        System.out.println("Nombre: " + persona.getNombre());
-        System.out.println("Edad: " + persona.getEdad());
-        System.out.println("Telefono: " + persona.getTelefono());
+        PersonaTema8 personaTema8 = new PersonaTema8();
+        personaTema8.setEdad(43);
+        personaTema8.setNombre("Luis Turcios");
+        personaTema8.setTelefono("50369866023");
+        System.out.println("Nombre: " + personaTema8.getNombre());
+        System.out.println("Edad: " + personaTema8.getEdad());
+        System.out.println("Telefono: " + personaTema8.getTelefono());
     }
 }
 
-class Persona{
+class PersonaTema8 {
     private int edad;
     private String nombre;
     private String telefono;
@@ -39,4 +39,3 @@ class Persona{
         this.telefono = telefono;
     }
 }
-
